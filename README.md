@@ -6,8 +6,8 @@ This project is a **Stock Market Search, Analysis, and Portfolio Management Web 
 To provide a seamless experience, I have also developed an **Android mobile application** with the same functionalities, allowing users to track stock prices and portfolios on the go.  
 
 ### 🎥 Demo  
-- **[Android App Demo](demo/android_demo.mp4)**
-- **[Live Project Website](Insert link here)**  
+- **[Android App Demo]([demo/android_demo.mp4](https://drive.google.com/file/d/1PJcl4JYOpudNAYzpD7t_M5lBiJFR-VJY/view?usp=drive_link))**
+- **[Live Project Website]([Insert link here](https://webtech-assign3-455300.uw.r.appspot.com/search/home))**  
 
 ---
 
