@@ -45,7 +45,6 @@ To provide a seamless experience, I have also developed an **Android mobile appl
 This repository contains:  
 - 📜 **README.md** (This file)  
 - 🎥 **Android app demo video** (`demo/android_demo.mp4`)  
-- 🖼 **Screenshots & UI previews** (`assets/`)  
 
 ---
 
