@@ -38,14 +38,6 @@ To provide a seamless experience, I have also developed an **Android mobile appl
 - **Database**: MongoDB  
 - **Mobile App**: Android (Java)  
 - **Data Visualization**: Highcharts  
-
----
-
-## 📂 Repository Contents  
-This repository contains:  
-- 📜 **README.md** (This file)  
-- 🎥 **Android app demo video** (`demo/android_demo.mp4`)  
-
 ---
 
 ## ⚠️ Note  
